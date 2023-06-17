@@ -1,13 +1,13 @@
-<p align="center">Sample text with center alignment</p>
+<p align="center" dir="auto">Sample text with center alignment</p>
 👀 I’m interested in coding and game
 🌱 I’m currently learning a lot of thing
 💞️ I’m looking to collaborate on a lot of thing
 📫 How to reach me? none sorry :)
 
-<p align="center">
+<p align="center" dir="auto">
   ### :hammer_and_wrench: Languages and Tools :
 </p>
-<div align="center">
+<div align="center" dir="auto">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
 </div>
 
-<p align="center">
+<p align="center" dir="auto">
 ### :fire: My Stats :
 </p>
 
