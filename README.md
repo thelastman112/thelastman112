@@ -20,9 +20,12 @@
   </p>
   <div style="display:flex">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=thelastman112&theme=dark" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastman112" />
   </div>
 </div>
+<di align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastman112" />
+</div>
+
 
 
 
