@@ -22,7 +22,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=thelastman112&theme=dark" />  
   </div>
 </div>
-<di align="center"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelastman112" />
 </div>
 
